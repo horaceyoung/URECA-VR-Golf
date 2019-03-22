@@ -1,0 +1,6 @@
+1. environment
+2. golf clubs balls
+3. integrate VRToolkit
+4. physics and interactions
+5. gameplay
+6. level design
